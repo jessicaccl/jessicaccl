@@ -1,8 +1,15 @@
 # Olá, eu sou a Jéssica 👋
 
-Sou apaixonada por aprendizado e pela conexão entre **criatividade, tecnologia e estratégia**.  
-Atuei por mais de 10 anos no **varejo de moda**, com foco em **vendas, marketing e gestão**, e atualmente estou em **transição de carreira para a área de tecnologia**.
+Sou **desenvolvedora FullStack em constante evolução**, apaixonada por aprendizado e pela conexão entre **criatividade, tecnologia e estratégia**.
 
-Sou **residente em programação Fullstack**, onde venho desenvolvendo projetos práticos com foco em **Java, Banco de Dados, HTML, CSS, Java Script, Desenvolvimento de API's, React, TypeScript, React Native**.  
-Amo unir design, lógica e propósito e acredito que a tecnologia é uma ferramenta poderosa para criar experiências humanas e inspiradoras. 💡
+Após mais de 10 anos atuando no **varejo de moda**, com foco em **vendas, marketing e gestão**, decidi direcionar minha carreira para a **tecnologia**, unindo **visão de negócio** à construção de **soluções digitais**.
+
+Participei de uma **residência em Desenvolvimento FullStack**, onde desenvolvi projetos práticos utilizando **Java, C#, APIs REST, bancos de dados relacionais, HTML, CSS, JavaScript, React, TypeScript e React Native**.  
+Tenho experiência na construção de **aplicações web ponta a ponta**, aplicando **boas práticas de código**, versionamento com **Git** e organização de arquitetura.
+
+Atualmente, curso um **MBA na PUC em Inteligência Artificial, Data Science e Big Data**, ampliando meus conhecimentos em **soluções orientadas a dados**, **integração com APIs** e fundamentos de **IA**.
+
+Acredito que tecnologia vai além de código: é sobre **resolver problemas reais**, **gerar impacto** e criar **experiências significativas**. Gosto de unir **design, lógica e propósito** para entregar soluções bem estruturadas, funcionais e com **visão de produto**. 💡
+
+
 

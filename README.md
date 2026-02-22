@@ -7,8 +7,6 @@ Após mais de 10 anos atuando no **varejo de moda**, com foco em **vendas, marke
 Participei de uma **residência em Desenvolvimento FullStack**, onde desenvolvi projetos práticos utilizando **Java, C#, .Net, APIs REST, bancos de dados relacionais, HTML, CSS, JavaScript, React, TypeScript e React Native**.  
 Tenho experiência na construção de **aplicações web ponta a ponta**, aplicando **boas práticas de código**, versionamento com **Git** e organização de arquitetura.
 
-Atualmente, curso um **MBA na PUC em Inteligência Artificial, Data Science e Big Data**, ampliando meus conhecimentos em **soluções orientadas a dados**, **integração com APIs** e fundamentos de **IA**.
-
 Acredito que tecnologia vai além de código: é sobre **resolver problemas reais**, **gerar impacto** e criar **experiências significativas**. Gosto de unir **design, lógica e propósito** para entregar soluções bem estruturadas, funcionais e com **visão de produto**. 💡
 
 

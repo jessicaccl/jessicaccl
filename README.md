@@ -35,6 +35,8 @@ Fiz residência em Desenvolvimento FullStack (Java, C# e .NET, APIs REST, React,
 
 Hoje trabalho, com o time, em três frentes numa locadora de motos: **produto**, **desenvolvimento de software com IA** e **qualidade** do ERP, com integrações financeiras e agentes de IA no atendimento.
 
+Para mim, tecnologia só vale quando resolve o problema de quem usa. Por isso começo pelo problema, e a entrega só termina quando está em uso e sendo acompanhada.
+
 ## Projetos
 
 | Projeto | O que é | Links |
